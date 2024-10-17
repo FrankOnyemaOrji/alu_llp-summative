@@ -1,0 +1,79 @@
+Welcome to the Blockchain Job Directory Application!
+
+Adding job listings to the blockchain:
+----------------------------------------
+Adding Job:
+Title: Software Engineer
+Company: TechCorp
+Location: New York
+Description: Develop and maintain software applications.
+Job added successfully!
+
+Adding Job:
+Title: Data Scientist
+Company: DataInc
+Location: San Francisco
+Description: Analyze and interpret complex data.
+Job added successfully!
+
+Adding Job:
+Title: Product Manager
+Company: Business Solutions
+Location: Los Angeles
+Description: Lead product development and manage the product lifecycle.
+Job added successfully!
+
+Current Job Listings in the Blockchain:
+----------------------------------------
+Job Found:
+Title: Software Engineer
+Company: TechCorp
+Location: New York
+Description: Develop and maintain software applications.
+
+Job Found:
+Title: Data Scientist
+Company: DataInc
+Location: San Francisco
+Description: Analyze and interpret complex data.
+
+Job Found:
+Title: Product Manager
+Company: Business Solutions
+Location: Los Angeles
+Description: Lead product development and manage the product lifecycle.
+
+Searching for jobs by keyword:
+----------------------------------------
+Searching for keyword: Software
+Job Found:
+Title: Software Engineer
+Company: TechCorp
+Location: New York
+Description: Develop and maintain software applications.
+
+Searching for a non-existing job:
+----------------------------------------
+Searching for keyword: NonExistingJob
+No jobs found.
+
+Verifying the integrity of the job directory:
+----------------------------------------
+Verifying blockchain integrity...
+Blockchain is intact. No tampering detected.
+
+Simulating tampering with the blockchain:
+----------------------------------------
+Tampering with the last block's hash...
+Integrity check after tampering:
+Verifying blockchain integrity...
+Integrity check failed! Tampering detected!
+
+Restoring integrity:
+----------------------------------------
+Restoring the last block's hash...
+Verifying blockchain integrity...
+Blockchain is intact. No tampering detected.
+
+End of Sample Output.
+
